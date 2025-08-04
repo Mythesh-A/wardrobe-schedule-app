@@ -34,7 +34,7 @@ The **Wardrobe Schedule App** is a smart desktop application built using **Pytho
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Mythesh-A/wardrobe-schedule-app.git
-   cd wardrobe-schedule-app
+   cd wardrobe-app-main.py
    ```
 
 2. **Install Required Packages**
