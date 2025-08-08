@@ -2194,7 +2194,7 @@ class WardrobeApp:
         self.weather_api_key = "ed3fd15a9b81d0193b1722f486de6243"
         
         # Add footer
-        footer = tk.Label(self.root, text="Wardrobe Manager Pro © 2023 | Stay Stylish", 
+        footer = tk.Label(self.root, text="© 2025 Wardrobe App. All rights reserved. Lead Developer: Mythesh", 
                          font=("Segoe UI", 10), fg="#7F8C8D", bg="#F5F7FA")
         footer.pack(side=tk.BOTTOM, pady=20)
         
