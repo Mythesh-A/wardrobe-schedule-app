@@ -49,6 +49,11 @@ The **Wardrobe Schedule App** is a smart desktop application built using **Pytho
 
 ---
 
+## 📥 Download
+[Click here to download the latest Wardrobe App (.exe)](https://https://github.com/Mythesh-A/wardrobe-schedule-app/releases/tag/v1.0)
+
+---
+
 ## 💡 Future Improvements
 - Integration with Google Calendar or mobile sync
 - User login and multi-profile wardrobe tracking
